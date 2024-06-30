@@ -1,0 +1,335 @@
+/* Nav links */
+@media (max-width:991px) {
+    header nav .links li{
+        height: 70px;
+        align-items: center;
+        display: flex;
+        padding-left: ;
+    }
+}
+
+@media (max-width:991px){
+    header nav .links li a span.cardCounter{
+        top: -14px;
+        right: 14px;
+    
+    }
+}
+
+@media (max-width:991px){
+    #beutyCream .secondRow .img img{
+        height: auto;
+        margin-top: 24px;
+    }
+}
+
+/* Nav links Ends */
+
+/* Beuty Cream */
+@media (max-width:991px){
+    #beutyCream{
+        padding-top: 15px;
+    }
+}
+
+/* Banner */
+@media (min-width:650px) And (max-width:720px){
+    .bannerSliderSm{
+        height:100%;
+        max-height: 350px;
+    
+    }
+}
+@media (min-width:600px) And (max-width:650px){
+    .bannerSliderSm{
+        height:100%;
+        max-height: 330px;
+    
+    }
+}
+@media (min-width:500px) And (max-width:600px){
+    .bannerSliderSm{
+        height:100%;
+        max-height: 300px;
+    
+    }
+}
+@media (min-width:400px) And (max-width:500px){
+    .bannerSliderSm{
+        height:100%;
+        max-height: 250px;
+    
+    }
+}
+@media (min-width:300px) And (max-width:400px){
+    .bannerSliderSm{
+        height:100%;
+        max-height: 210px;
+    
+    }
+}
+@media (min-width:200px) And (max-width:300px){
+    .bannerSliderSm{
+        height:100%;
+        max-height: 180px;
+    
+    }
+}
+/* Banner Ends */
+/* Beuty Cream Ends */
+
+/* cosmetic start */
+@media (max-width:767px){
+    #comneticBanner{
+        background: none;
+        background-size: 0;
+        background-position: 0%;
+        height: 30px;
+    }
+}
+
+@media (min-width:580px) And (max-width:767px){
+    #dealOfTheDay .container .wrapper{
+        height: 600px;
+        padding: 0px;
+    }
+}
+@media (min-width:480px) And (max-width:580px){
+    #dealOfTheDay .container .wrapper{
+        height: 600px;
+        padding: 0px;
+    }
+}
+@media (min-width:430px) And (max-width:480px){
+    #dealOfTheDay .container .wrapper{
+        height: 520px;
+        padding: 0px;
+    }
+}
+@media (min-width:350px) And (max-width:430px){
+    #dealOfTheDay .container .wrapper{
+        height: 490px;
+        padding: 0px;
+    }
+}
+@media (max-width:480px){
+    #dealOfTheDay .container .wrapper{
+        height: 480px;
+        padding: 0px;
+    }
+}
+
+@media (min-width:580px) And (max-width:767px){
+    #dealOfTheDay .dealsOfTheDaysSlidersm .slick-list{
+        height: 100%;
+        max-height: 620px;
+    }
+}
+@media (min-width:480px) And (max-width:580px){
+    #dealOfTheDay .dealsOfTheDaysSlidersm .slick-list{
+        height: 100%;
+        max-height: 520px;
+    }
+}
+
+
+@media (max-width:991px){
+    #dealOfTheDay{
+        height: 350px;
+    }
+}
+@media (max-width:991px){
+    .slick-track{
+        height: 450px;
+    }
+}
+/* cosmetic start ends
+
+/* deals of the day */
+@media (max-width:991px){
+    #dayOfTheDeal .container .full-content{
+        margin: 0px;
+    }
+}
+@media (max-width:991px){
+    #dayOfTheDeal .container .full-content .dayDealMobileSlider{
+        margin-top: 15px;
+    }
+}
+
+
+
+/* Special Offer section */
+@media (max-width:991px){
+    #videoBanner .videoImage{
+        position: static;
+        width: 100%;
+        padding-bottom: 15px;
+    }
+}
+@media (max-width:991px){
+    #videoBanner .content{
+        padding-top: 20px;
+        padding-bottom: 35px;
+    }
+}
+@media (max-width:991px){
+    #videoBanner{
+        height: auto;
+    }
+}
+@media (max-width:991px){
+    #videoBanner .content a{
+        margin-bottom: 20px;
+    }
+}
+/* Special Offer section Ends */
+
+
+/* Special offer banner */
+@media (min-width:768px) And (max-width:991px){
+    #videoBanner .videoImage .overlay{
+        top: 73%;
+    }
+}
+@media (min-width:500px) And (max-width:767px){
+    #videoBanner .videoImage .overlay{
+        top: 77%;
+        transform: translateY(0%);
+        left: 48%;
+    }
+}
+@media (min-width:450px) And (max-width:500px){
+    #videoBanner .videoImage .overlay{
+        top: 80%;
+        transform: translateY(0%);
+        left: 46%;
+    }
+}
+@media (min-width:425px) And (max-width:450px){
+    #videoBanner .videoImage .overlay{
+        top: 80%;
+        transform: translateY(0%);
+        left: 46%;
+    }
+}
+@media (min-width:400px) And (max-width:425px){
+    #videoBanner .videoImage .overlay{
+        top: 82%;
+        transform: translateY(0%);
+        left: 46%;
+    }
+}
+@media (min-width:375px) And (max-width:400px){
+    #videoBanner .videoImage .overlay{
+        top: 83%;
+        transform: translateY(0%);
+        left: 44%;
+    }
+}
+@media (min-width:350px) And (max-width:375px){
+    #videoBanner .videoImage .overlay{
+        top: 86%;
+        transform: translateY(0%);
+        left: 44%;
+    }
+}
+@media (min-width:300px) And (max-width:350px){
+    #videoBanner .videoImage .overlay{
+        top: 86%;
+        transform: translateY(0%);
+        left: 44%;
+    }
+}
+@media (min-width:250px) And (max-width:300px){
+    #videoBanner .videoImage .overlay{
+        top: 88%;
+        transform: translateY(0%);
+        left: 44%;
+    }
+}
+@media (min-width:200px) And (max-width:250px){
+    #videoBanner .videoImage .overlay{
+        top: 93%;
+        transform: translateY(0%);
+        left: 42%;
+    }
+}
+
+/* Special offer banner Ends */
+
+/* Preefooter */
+@media (max-width:991px){
+    .prefooter .col-lg-3{
+        border-right: none;
+        border-bottom: 4px solid var(--background-color);
+    }
+}
+@media (max-width:991px){
+    .prefooter{
+        transform: translateY(-40%);
+    }
+}
+
+@media (max-width:991px){
+    .prefooter{
+        transform: translateY(-10%);
+    }
+}
+@media (max-width:991px){
+    .footerTop .socialLinks a{
+        margin-top: 10px;
+        margin-left: 2px;
+    }
+}
+@media (max-width:991px){
+    .footerTop .payments{
+        margin-top: 10px;
+    }
+}
+/* Preefooter Ends */
+
+
+/* About Page */
+/* About Shop */
+@media (max-width:991px){
+    #aboutShop .container .shopImage{
+        margin-left: 0px;
+    }
+}
+@media (max-width:991px){
+    #aboutShop .container .shopContent{
+        padding: 10px;
+    }
+}
+
+/* About Shop Ends */
+
+@media (max-width:991px){
+    #customerReview .container .customerContent p{
+        width: 100%;
+    }
+}
+@media (max-width:991px){
+    #customerReview .container .customerContent{
+        height: auto;
+    }
+}
+/* About Page Ends */
+
+
+/* Shop product Details Page */
+@media (max-width:1200px){
+    .addToCartAncor{
+        margin-top: 10px;
+    }
+}
+
+@media (max-width:1200px){
+    #detailsOfProduct .productAllDetails .middlepart a{
+        transform: translateX(30px);
+    }
+}
+
+
+/* Shop Details Page Ends */
